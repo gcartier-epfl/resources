@@ -1,2 +1,2 @@
-# Resources   
+# :wrench: Resources   
 Gael Cartier-Michaud  
