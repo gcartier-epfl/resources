@@ -1,5 +1,5 @@
 # :file_folder: NAS 
 
-username : gaspar or email 
-domain : intranet.epfl.ch 
-password : gaspar password
+__username__ : gaspar or email   
+__domain__ : intranet.epfl.ch   
+__password__ : gaspar password  
