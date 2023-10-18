@@ -6,17 +6,17 @@ https://www.redhat.com/sysadmin/introduction-tmux-linux
   
 ### Comand line  
 - new session simple : `tmux`  
-- new session with name : `tmux new -s <name>`
-- rename session : `tmux rename-session -t <num_session> <new_name>`  
-- Attach running session : `tmux attaach -t <num / name session>`
+- new session with name : `tmux new -s <session name>`
+- rename a session : `tmux rename-session -t <session num> <new_name>`  
+- list of sessions : `tmus ls`  
+- Attach running session : `tmux attach -t <session num / name>`
   
     
-### Key comand  
+### Key bindings  
 
 - display all keybindings : `C-b ?`
-
 - Close session / pane : `C-d`
-- detach session : `C-b d` 
+- detach current session : `C-b d` 
 
 
 ## Save output to a file  
