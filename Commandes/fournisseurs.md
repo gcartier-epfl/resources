@@ -14,5 +14,9 @@
     - [Catalogue](https://www.dell.com/premier/std-configs/ch/fr/rc1262995)    
       
 - __Divers__:  
+    - Bechtle
+    - Brack.ch
+    - Digitec.ch
+    - Darest (*déconseillé*)
 
 
